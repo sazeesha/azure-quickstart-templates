@@ -4,18 +4,21 @@
   "parameters": {
     "serviceBusNamespaceName": {
       "type": "string",
+      "defaultValue": "sb-test-bvt-tedfplate-namespace",
       "metadata": {
         "description": "Name of the Service Bus namespace"
       }
     },
     "serviceBusTopicName": {
       "type": "string",
+      "defaultValue": "sb-test-bvt-tempdflate-namespace",
       "metadata": {
         "description": "Name of the Topic"
       }
     },
     "serviceBusSubscriptionName": {
       "type": "string",
+      "defaultValue": "sb-test-bvt-tefdmplate-namespace",
       "metadata": {
         "description": "Name of the Subscription"
       }
