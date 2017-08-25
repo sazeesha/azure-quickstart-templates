@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceBusNamespaceName": {
-      "value": "GEN-UNIQUE-12"
+      "value": "BVT-201-servicebus-create-topic-subscription-rule2"
     },
     "serviceBusTopicName": {
-      "value": "GEN-UNIQUE-13"
+      "value": "topic-13"
     },
     "serviceBusSubscriptionName": {
-      "value": "GEN-UNIQUE-14"
+      "value": "sub-14"
     },
     "serviceBusRuleName": {
-      "value": "GEN-UNIQUE-15"
+      "value": "rule-15"
     }
   }
 }
