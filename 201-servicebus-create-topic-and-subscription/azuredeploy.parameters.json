@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceBusNamespaceName": {
-      "value": "GEN-UNIQUqerqeE"
+      "value": "BVT-201-servicebus-create-topic-and-subscription"
     },
     "serviceBusTopicName": {
-      "value": "GEN-UNIQsdfsdUE"
+      "value": "201-Topic"
     },
     "serviceBusSubscriptionName": {
-      "value": "GEN-UNsdfsdIQUE"
+      "value": "201-Subscription"
     }
   }
 }
