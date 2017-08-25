@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceBusNamespaceName": {
-      "value": "GEN-UNIQUE"
+      "value": "BVT-201-servicebus-create-queue"
     },
     "serviceBusQueueName": {
-      "value": "GEN-UNIQUE"
+      "value": "201-queue"
     }
   }
 }
