@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serviceBusNamespaceName": {
-            "value": "GEN-UNIQUE"
+            "value": "BVT-301-SBNamespace"
         },
         "namespaceAuthorizationRuleName": {
-            "value": "GEN-UNIQUE"
+            "value": "301-SBNamespace-Auth"
         },
         "serviceBusQueueName": {
-            "value": "GEN-UNIQUE"
+            "value": "301-SBNamespace-Queue"
         },
         "queueAuthorizationRuleName": {
-            "value": "GEN-UNIQUE"
+            "value": "301-Queue-Auth"
         }
     }
 }
