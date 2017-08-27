@@ -4,7 +4,7 @@
   "parameters": {
     "serviceBusNamespaceName": {
         "type": "string",
-        "defaultValue": "[concat('site', uniqueString(resourceGroup().id))]"
+        "value": "[concat('serviceBusNamespace', uniqueString(resourceGroup().id))]"
     },
     "serviceBusQueueName": {
       "value": "201-queue"
