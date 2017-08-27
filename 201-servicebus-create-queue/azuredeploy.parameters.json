@@ -3,6 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceBusNamespaceName": {
+        "type": "string",
         "defaultValue": "[concat('site', uniqueString(resourceGroup().id))]"
     },
     "serviceBusQueueName": {
