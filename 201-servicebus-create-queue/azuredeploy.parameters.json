@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceBusNamespaceName": {
-      "value": "BVT-201-servicebus-create-queue"
+        "defaultValue": "[concat('site', uniqueString(resourceGroup().id))]"
     },
     "serviceBusQueueName": {
       "value": "201-queue"
