@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespaceName": {
-            "value": "GEN-UNIQUE"
+            "value": "BVT-301-EH-NAMESPACE"
         },
         "eventHubName": {
-            "value": "GEN-UNIQUE"
+            "value": "BVT-301-EH-EVENTHUB"
         }, 
         "consumerGroupName": {
-            "value": "GEN-UNIQUE"
+            "value": "BVT-301-EH-CONSUMERGROUP"
         }
     }
 }
