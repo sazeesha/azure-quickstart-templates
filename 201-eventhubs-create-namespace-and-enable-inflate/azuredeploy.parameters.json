@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespaceName": {
-            "value": "GEN-UNIQUE"
+            "value": "201-eh-NS-INFLATE"
         },
         "eventHubName": {
-            "value": "GEN-UNIQUE"
+            "value": "201-EH-EH-INFLATE"
         },
         "consumerGroupName": {
-            "value": "GEN-UNIQUE"
+            "value": "201-EH-CG-INFLATE"
         }
     }
 }
