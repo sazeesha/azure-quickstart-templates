@@ -6,7 +6,7 @@
       "value": "BVT-201-servicebus-create-topic-and-subscription"
     },
     "serviceBusTopicName": {
-      "value": "201-Topic"
+      "value": "BVT-201-Topic"
     },
     "serviceBusSubscriptionName": {
       "value": "BVT-201-Subscription"
