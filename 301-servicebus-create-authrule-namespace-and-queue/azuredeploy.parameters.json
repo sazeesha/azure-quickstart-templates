@@ -6,13 +6,13 @@
             "value": "BVT-301-SBNamespace"
         },
         "namespaceAuthorizationRuleName": {
-            "value": "301-SBNamespace-Auth"
+            "value": "bvt-301-SBNamespace-Auth"
         },
         "serviceBusQueueName": {
-            "value": "301-SBNamespace-Queue"
+            "value": "bvt-301-SBNamespace-Queue"
         },
         "queueAuthorizationRuleName": {
-            "value": "301-Queue-Auth"
+            "value": "bvt-301-Queue-Auth"
         }
     }
 }
