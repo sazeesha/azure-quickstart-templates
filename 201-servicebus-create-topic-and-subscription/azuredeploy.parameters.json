@@ -9,7 +9,7 @@
       "value": "201-Topic"
     },
     "serviceBusSubscriptionName": {
-      "value": "201-Subscription"
+      "value": "BVT-201-Subscription"
     }
   }
 }
