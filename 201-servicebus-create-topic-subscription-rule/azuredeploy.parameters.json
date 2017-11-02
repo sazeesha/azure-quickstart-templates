@@ -6,13 +6,13 @@
       "value": "BVT-201-servicebus-create-topic-subscription-rule2"
     },
     "serviceBusTopicName": {
-      "value": "topic-13"
+      "value": "bvt-topic-13"
     },
     "serviceBusSubscriptionName": {
-      "value": "sub-14"
+      "value": "bvt-sub-14"
     },
     "serviceBusRuleName": {
-      "value": "rule-15"
+      "value": "bvt-rule-15"
     }
   }
 }
