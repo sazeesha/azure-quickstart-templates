@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespaceName": {
-            "value": "GEN-UNIQUE"
+            "value": "NS-3407BABB"
         },
         "wcfRelayName": {
-            "value": "GEN-UNIQUE"
+            "value": "R-E239"
         },
         "wcfRelayType": {
             "value": "Http"
