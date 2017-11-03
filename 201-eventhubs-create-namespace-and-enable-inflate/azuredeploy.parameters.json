@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespaceName": {
-            "value": "201-eh-NS-INFLATE"
+            "value": "201-EH-NS-INFLATE"
         },
         "eventHubName": {
             "value": "201-EH-EH-INFLATE"
