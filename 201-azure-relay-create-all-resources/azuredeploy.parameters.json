@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespaceName": {
-            "value": "GEN-UNIQUE"
+            "value": "NS-286C0EF8"
         },
         "wcfRelayName": {
-            "value": "GEN-UNIQUE"
+            "value": "BE87"
         },
         "wcfRelayType": {
             "value": "NetTcp"
         },
         "hybridConnectionName": {
-            "value": "GEN-UNIQUE"
+            "value": "E52EECFF86F6E"
         }
     }
 }
