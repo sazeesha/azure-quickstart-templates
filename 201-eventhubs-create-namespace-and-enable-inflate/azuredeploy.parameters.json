@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespaceName": {
-            "value": "201-EH-NS-INFLATE"
+            "value": "BVT-201-EH-NS-INFLATE"
         },
         "eventHubName": {
-            "value": "201-EH-EH-INFLATE"
+            "value": "BVT-201-EH-EH-INFLATE"
         },
         "consumerGroupName": {
-            "value": "201-EH-CG-INFLATE"
+            "value": "BVT-201-EH-CG-INFLATE"
         }
     }
 }
