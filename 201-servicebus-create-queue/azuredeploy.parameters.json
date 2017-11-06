@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceBusNamespaceName": {
-      "value": "BVT-201-servicebus-create-queue"
+      "value": "NS-E9E1C581"
     },
     "serviceBusQueueName": {
-      "value": "BVT-201-queue"
+      "value": "AFAC9057"
     }
   }
 }
