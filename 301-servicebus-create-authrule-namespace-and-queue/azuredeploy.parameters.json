@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serviceBusNamespaceName": {
-            "value": "BVT-301-SBNamespace"
+            "value": "NS-ABFE293D"
         },
         "namespaceAuthorizationRuleName": {
-            "value": "bvt-301-SBNamespace-Auth"
+            "value": "F308"
         },
         "serviceBusQueueName": {
-            "value": "bvt-301-SBNamespace-Queue"
+            "value": "A2F2"
         },
         "queueAuthorizationRuleName": {
-            "value": "bvt-301-Queue-Auth"
+            "value": "BD9C"
         }
     }
 }
