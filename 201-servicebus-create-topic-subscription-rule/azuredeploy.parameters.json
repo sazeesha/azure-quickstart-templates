@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceBusNamespaceName": {
-      "value": "BVT-201-servicebus-create-topic-subscription-rule2"
+      "value": "NS-d1dc0fc3"
     },
     "serviceBusTopicName": {
-      "value": "bvt-topic-13"
+      "value": "abbbd7e5"
     },
     "serviceBusSubscriptionName": {
-      "value": "bvt-sub-14"
+      "value": "e398c74b"
     },
     "serviceBusRuleName": {
-      "value": "bvt-rule-15"
+      "value": "f0ad"
     }
   }
 }
