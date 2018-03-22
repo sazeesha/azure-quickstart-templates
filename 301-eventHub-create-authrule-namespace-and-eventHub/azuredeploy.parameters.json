@@ -13,6 +13,12 @@
         }, 
         "namespaceAuthorizationRuleName": {
             "value": "a0a5"
+        }, 
+        "eventhubAuthorizationRuleName": {
+            "value": "a0a51"
+        }, 
+        "eventhubAuthorizationRuleName1": {
+            "value": "a0a52"
         }
     }
 }
