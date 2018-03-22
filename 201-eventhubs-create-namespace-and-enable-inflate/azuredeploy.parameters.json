@@ -7,9 +7,6 @@
         },
         "eventHubName": {
             "value": "a4d99573"
-        },
-        "consumerGroupName": {
-            "value": "c24b57f"
         }
     }
 }
