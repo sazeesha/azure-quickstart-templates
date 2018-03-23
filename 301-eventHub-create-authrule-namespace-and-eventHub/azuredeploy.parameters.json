@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "namespaceName": {
-            "value": "NS-a353e714"
+            "value": "NS-e353e714"
         },
         "eventHubName": {
             "value": "b392"
