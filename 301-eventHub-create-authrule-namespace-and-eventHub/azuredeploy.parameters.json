@@ -19,6 +19,9 @@
         }, 
         "eventhubAuthorizationRuleName1": {
             "value": "a0a52"
+        }, 
+        "maximumThroughputUnits": {
+            "value": 5
         }
     }
 }
